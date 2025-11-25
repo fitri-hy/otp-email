@@ -147,7 +147,7 @@ main();
   * `enabled: false` → fallback to internal memory.
 * **Custom HTML template**:
 
-  * Can be customized via `TEMPLATES.otp`.
+  * Can be customized via `TEMPLATES.otp` See example format [otpTemplate.html](./src/templates/otpTemplate.html).
 * **Logger**: all logs are stored in `<root-project>/logs/otp.log`.
 
 ---
